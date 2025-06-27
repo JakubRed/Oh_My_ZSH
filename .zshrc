@@ -131,3 +131,4 @@ alias hs="history | grep "
 alias runQemu="~/git/open-source-firmware-validation/scripts/ci/qemu-run.sh graphic "
 alias precom="pre-commit run --all-files"
 alias vmnfs="sudo mount -t nfs 192.168.4.110:/srv/nfs/logs /var/nfs/osfv"
+alias gonfs=cd /var/nfs/osfv/releases/
